@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
-import pandas as pd
-import matplotlib.pyplot as pit
+#import pandas as pd
+#import matplotlib.pyplot as pit
 
 st.title('サンプル')
 st.caption('サンプルアプリ')
